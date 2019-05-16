@@ -1,0 +1,49 @@
+{
+    "help" : {
+        "infoHelp" : {
+            "T1" : "A T1 is a housing composed of 1 room (s) + (kitchen, WC, bathroom, laundry room, dressing room, hallways). <strong>If a room is larger than 30m2, then it counts as 2, you must select T2.</strong>",
+            "T2" : "A T2 is a housing composed of 2 room (s) + (kitchen, WC, bathroom, laundry room, dressing room, hallways). <strong>If a room is larger than 30m2, then it counts as 2, you must select T3.</strong>",
+            "T3" : "A T3 is a housing composed of 3 room (s) + (kitchen, WC, bathroom, laundry room, dressing room, hallways). <strong>If a room is larger than 30m2, then it counts as 2, you must select T4.</strong>",
+            "T4" : "A T4 is a housing composed of 4 room (s) + (kitchen, WC, bathroom, laundry room, dressing room, hallways). <strong>If a room is larger than 30m2, then it counts as 2, you must select T5.</strong>",
+            "T5" : "A T5 is a housing composed of 5 room (s) + (kitchen, WC, bathroom, laundry room, dressing room, hallways). <strong>If a room is larger than 30m2, then it counts as 2, you must select T6.</strong>",
+            "T6" : "A T6 is a housing composed of 6 room (s) + (kitchen, toilet, bathroom, laundry room, dressing room, hallways). <strong>If a room is larger than 30m2, then it counts as 2, you must select T7.</strong>",
+            "T7" : "A T7 is a housing consisting of 7 room (s) + (kitchen, toilet, bathroom, laundry, dressing room, hallways). <strong>If a room is larger than 30m2, then it counts as 2, please contact us.</strong>"
+        },
+        "dateHelp" : {
+            "nocalendar" : "<div class=\"title\">We organize for you the date of the inventory.</div> <strong>Our teams organize and plan the inventory with the tenant before confirming it.</strong>",
+            "calendar" : "<div class=\"title\">Choose yourself the date of the inventory.</div> <strong>You choose a date and time according to our availability. For this, make sure that the tenant is available.</strong>"
+        },
+        "notPresent" : "Sorry, unfortunately we are not here yet. We will arrive soon, it is promised. We are currently available in <strong>",
+        "inventory_type" : "<span class=\"glyphicon glyphicon-alert\"></span><strong>Attention</strong>, this implies that the inventory of places of exit and entry takes place the same day one after the other.",
+        "alertErrors" : {
+            "accomodation_address" : "The address of the accommodation must be filled", 
+            "inventory_type" : "The type of inventory must be filled",
+            "house_type" : "You must inform if it is an apartment or a house",
+            "house_size" : "The type of the accommodation must be filled",
+            "house_furnished" : "The type of rental must be filled",
+            "date_choice" : "You must indicate if you know the date of the inventory of fixtures or if we have to organize it with the tenant",
+            "housing_area" : "Housing area must be filled",
+            "inventory_date_must_section" : "The date before the inventory must be completed.",
+            "inventory_date_was_section" : "The date on which the inventory has been completed must be filled.",
+            "house_garage" : "Please indicate if the property has a garage or not.",
+            "house_garage_location" : "The location of the garage must be filled.",
+            "house_basement" : "Please indicate if the property has a basement or not.",
+            "house_basement_location" : "The location of the basement must be filled.",
+            "last_roomer" : "The last name and first name of the former tenant is obligatory.",
+            "readAndAccepted" : "Please accept the Terms and conditions",
+            "payeeName" : "The name of the Payee must be filled.",
+            "payeeEmail" : "The email of the Payee must be filled. Payment receipt would be sent to this email.",
+            "payeeAddress" : "The billing address of the Payee must be filled.",
+            "payeeCity" : "The city field of the Payee must be filled.",
+            "payeeCode" : "The postal Code of the Payee must be filled."
+        },
+        "tenant_placeholders" : {
+            "tenant_number" : "Tenant #",
+            "tenant_name" : "Nom",
+            "tenant_firstName" : "Prénom",
+            "tenant_email" : "Email",
+            "tenant_telephone" : "Téléphone"
+        },
+        "processingText" : "<b>Processing… </b> Please do not close this screen, while the payment request is in progress"
+    }
+}

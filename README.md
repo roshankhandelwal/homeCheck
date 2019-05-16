@@ -27,3 +27,10 @@ const stripe = require("stripe")("_secret"); ( Replace _secret with the Stripe s
 > The backend is written in Node.js with a Express server. ( If you have a backend written in some other language, replicating the functionalityy of backend here, you > would need to replace the appropriate URLs in main.js ( in project root ), essentially replacing "http://localhost:3000/" with your URL.
 
 - Uses the PaymentIntent API from Stripe and not the older version.
+
+# Server
+
+- Navigate to folder.
+- npm install ( Node must be installed for this )
+- cd server
+- node main.js
